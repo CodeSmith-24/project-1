@@ -5,7 +5,7 @@ owner-krishna verma.
 <br>
 she is pro coder
 <br>
-she codes in c++
+she codes in Python.
 
  
  
